@@ -1,0 +1,9 @@
+<script>
+
+var canal="paulo";
+var curso="dutra";
+const separador="-";
+const quebra="\n\n";
+prompt("digite seu texto","");
+
+</script>
